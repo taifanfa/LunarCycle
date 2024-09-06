@@ -1,5 +1,7 @@
 ## Desvendando os Mistérios da Lua: Um Guia Rápido para a Nossa Aplicação
 
+Uma aventura realizada durante a Imersão Dev com Gemini da Aluna com Google
+
 **O que faz essa aplicação?**
 
 Já se perguntou por que a Lua muda de forma? Ou como as fases lunares influenciam a natureza e até mesmo a gente? Essa aplicação é a sua porta de entrada para um universo de curiosidades sobre o nosso satélite natural!
