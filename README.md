@@ -1,6 +1,6 @@
 # **Desvendando os Mistérios da Lua** 🌕
 
-Uma aventura realizada durante a **Imersão Dev com Gemini da Alura** com **Google**.
+Uma aventura realizada durante a **Imersão Dev com Gemini da Alura** com o **Google**.
 
 ---
 
@@ -30,15 +30,15 @@ Já se perguntou por que a Lua muda de forma? Ou como as fases lunares influenci
 
 Quer ajudar a deixar a aplicação ainda mais incrível? Seja muito bem-vindo! Você pode:
 
-- **Corrigir bugs**: Achou algum erro? Nos avise!
-- **Sugerir novas funcionalidades**: Tem alguma ideia legal? Compartilhe com a gente!
+- **Corrigir bugs**: Achou algum erro? Avise!
+- **Sugerir novas funcionalidades**: Tem alguma ideia legal? Compartilhe!
 - **Melhorar a documentação**: Ajuda a deixar o código mais claro para outros desenvolvedores.
 
 ---
 
 ## **Agradecimentos** 🙏
 
-Um grande obrigado a todos que contribuíram para este projeto! Sem vocês, nada seria possível.
+Um grande obrigado a todos que contribuíram para este projeto! 
 
 ---
 
@@ -48,32 +48,6 @@ Este projeto está sob a **Licença MIT**. Sinta-se à vontade para usar, modifi
 
 ---
 
-## **Observações** 📌
-
-- **Personalize**: Adapte este README.md para o seu projeto, incluindo informações mais específicas sobre a sua aplicação.
-- **Imagens**: Adicione imagens para deixar o seu README mais visualmente atraente.
-- **Seções adicionais**: Você pode incluir seções sobre a equipe, como contribuir, roadmap, etc.
-
----
-
-## **Dicas para um README mais eficaz** 💡
-
-- **Seja claro e conciso**: Use linguagem simples e direta.
-- **Utilize exemplos**: Mostre como a aplicação funciona na prática.
-- **Organize o conteúdo**: Use títulos e subtítulos para facilitar a leitura.
-- **Formatação**: Utilize a sintaxe Markdown para formatar o texto.
-
----
-
-> Com este README, você terá um guia completo para a sua aplicação, facilitando a vida de quem quiser entender como ela funciona e contribuir com o projeto.
-
 Que a força da Lua esteja com você! 🌙
 
----
 
-
-## Licença 📜
-
-Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE).
-
----
