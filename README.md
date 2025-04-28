@@ -1,4 +1,4 @@
-# **Desvendando os Mistérios da Lua** 🌕: Um Guia Rápido para a Nossa Aplicação
+# **Desvendando os Mistérios da Lua** 🌕
 
 Uma aventura realizada durante a **Imersão Dev com Gemini da Alura** com **Google**.
 
